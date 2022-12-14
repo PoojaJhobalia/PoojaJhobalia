@@ -39,11 +39,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a></a></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></a></a> <a href="https://tableau.com" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/tableau-logo" alt="Tableau" width="40" height="40"/> </a></a></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightanalyst&show_icons=true&locale=en&layout=compact" alt="midnightanalyst" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojaJhobalia&show_icons=true&locale=en&layout=compact" alt="midnightanalyst" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=midnightanalyst&show_icons=true&locale=en" alt="midnightanalyst" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PoojaJhobalia&show_icons=true&locale=en" alt="midnightanalyst" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightanalyst&" alt="midnightanalyst" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaJhobalia&" alt="midnightanalyst" /></p>
 
 
 <!---
