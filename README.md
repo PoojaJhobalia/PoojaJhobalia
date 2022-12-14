@@ -1,8 +1,20 @@
 
 
 preview
+
+add banner (use your links) :
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fanalyticsindiamag.com%2Fwp-content%2Fuploads%2F2019%2F02%2FDigital-Marketing-Write-For-Us.gif&imgrefurl=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-courses%2Fdata-science-courses%2Ftop-9-career-options-in-data-analytics&tbnid=bviyC5uTyd6PvM&vet=12ahUKEwjNj9Sx9Pj7AhXrCkQIHU4bAK4QMyg7egQIARBf..i&docid=LzbYh2jGUFfOIM&w=1394&h=850&q=animated%20gif%20of%20analyst%20&ved=2ahUKEwjNj9Sx9Pj7AhXrCkQIHU4bAK4QMyg7egQIARBf#imgrc=bviyC5uTyd6PvM&imgdii=NbhM-MsbLPCfqM))]
+
+
 <h1 align="center">Hi 👋, I'm Pooja Jhobalia</h1>
 <h3 align="center">Super passionate about DATA!</h3>
+
+<add Right GIF Image>
+(img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FS59bPkT0pqcAAAAC%2Fprogramming.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&tbnid=SS1GkdNnlHNJqM&vet=12ahUKEwjy3ZTu9fj7AhU8CUQIHT_oDawQMygRegUIARCmAg..i&docid=3g8g6-RBzQfWoM&w=498&h=373&q=gif%20girl%20coder&hl=en&ved=2ahUKEwjy3ZTu9fj7AhU8CUQIHT_oDawQMygRegUIARCmAg](https://tenor.com/view/programming-gif-25868426))")
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midnightanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="midnightanalyst" /> </p>
 
@@ -33,7 +45,7 @@ preview
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="  _mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=midnightanalyst&show_icons=true&locale=en&layout=compact" alt="midnightanalyst" /></p>
 
