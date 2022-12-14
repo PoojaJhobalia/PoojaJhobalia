@@ -1,9 +1,6 @@
 
 
-preview
-
-
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fanalyticsindiamag.com%2Fwp-content%2Fuploads%2F2019%2F02%2FDigital-Marketing-Write-For-Us.gif&imgrefurl=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fonline-courses%2Fdata-science-courses%2Ftop-9-career-options-in-data-analytics&tbnid=bviyC5uTyd6PvM&vet=12ahUKEwjNj9Sx9Pj7AhXrCkQIHU4bAK4QMyg7egQIARBf..i&docid=LzbYh2jGUFfOIM&w=1394&h=850&q=animated%20gif%20of%20analyst%20&ved=2ahUKEwjNj9Sx9Pj7AhXrCkQIHU4bAK4QMyg7egQIARBf#imgrc=bviyC5uTyd6PvM&imgdii=NbhM-MsbLPCfqM)
+![MasterHead](https://specialties.bayt.com/fr/specialties/q/400120/what-are-the-most-important-elements-that-must-be-included-in-all-online-marketing-strategies/)
 
 
 <h1 align="center">Hi 👋, I'm Pooja Jhobalia</h1>
